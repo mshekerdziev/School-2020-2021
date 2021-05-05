@@ -20,6 +20,7 @@ if(num2==1 && num1==2) cout<<" You won";
 if(num2==1 && num1==0) cout<<" The computer won";
 if(num2==2 && num1==0) cout<<" You won";
 if(num2==2 && num1==1) cout<<" The computer won";
+if(num1==num2) cout<<" Its a draw";
 
 return 0;
 }
