@@ -40,7 +40,7 @@ int main()
             else if(b==8) cnt2=cnt2+2;
             a=a/10;
         }
-        cout<<"The number or circles your number have is : "<<cnt2<<endl;
+        cout<<"The number or circles your number has is : "<<cnt2<<endl;
         }
 
     }
